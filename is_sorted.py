@@ -21,5 +21,3 @@ def is_sorted(numbers):
     else:
         return False
 
-print(is_sorted([]))
-print(len([]))
