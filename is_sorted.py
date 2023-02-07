@@ -3,6 +3,7 @@ def is_sorted(numbers):
     Determine if list is sorted.
 
     A function that determines if an input list of integers is sorted in non-decreasing order.
+
     :param numbers: a list of integers
     :precondition: numbers must be a list of integers
     :postcondition: correctly verifies if numbers is sorted in non-decreasing order or not
